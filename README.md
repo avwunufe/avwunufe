@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on more open source projects 
 
 - 📫 How to reach me: 
- _ <a href="https://www.linkedin.com/in/tarvey-avwunufe-008126233/">LinkedIn</a>
- _ <a href="https://twitter.com/Dominoking11">Twitter</a>
+ - <a href="https://www.linkedin.com/in/tarvey-avwunufe-008126233/">LinkedIn</a>
+ - <a href="https://twitter.com/Dominoking11">Twitter</a>
 
 - 💬 Ask me about NodeJs, smart contracts, blockchain, opensource
 
